@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c85449a4a8193f52582ffffdc193ceb1, type: 3}
+  m_Name: PathStrategyImporter
+  m_EditorClassIdentifier: 
+  type: 5
+  value:
+    integerValue: 0
+    charValue: 0
+    floatValue: 0
+    stringValue: 
+    boolValue: 0
+    meshPathStrategyValue: {fileID: 0}
+    genericSectionValue: {fileID: 0}
+  values: []
+  annotationFile: {fileID: 4900000, guid: c0dac60520686ad89a793d46bd73dc1d, type: 3}
+  meshes:
+  - name: boat
+    pathStrategy: {fileID: 11400000, guid: 8c3583b54df183ee7a408da10bfa33a4, type: 2}

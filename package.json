@@ -1,0 +1,20 @@
+{
+  "name": "com.pollopiccante.architext",
+  "version": "0.0.1",
+  "displayName": "VFX Architext",
+  "description": "Package that allows the creation of three-dimensional text scluptures.",
+  "unity": "2022.3",
+  "license": "MIT",
+  "keywords": [
+    "VFX",
+    "Text Mesh",
+    "Sculpture",
+    "Text Buildings"
+  ],
+  "author": {
+    "name": "Richard M\u00fcller",
+    "email": "richard_mueller4@aol.de",
+    "url": "https://github.com/Pollopiccante"
+  },
+  "unityRelease": "29f1"
+}

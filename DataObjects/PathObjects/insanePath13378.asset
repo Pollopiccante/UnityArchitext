@@ -1,0 +1,424 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17a69ea2cc7c8156f9353f7451802ad4, type: 3}
+  m_Name: insanePath13378
+  m_EditorClassIdentifier: 
+  points:
+  - pos: {x: 10, y: 0, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 8.484068, y: 1.3045882, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 8.484068, y: 1.3045882, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 7.1794796, y: -0.21134365, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 5.6635475, y: 1.0932447, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 5.6635475, y: 1.0932447, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 6.968136, y: 2.6091766, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 5.4522047, y: 3.9137652, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 3.9362726, y: 5.2183533, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 3.9362726, y: 5.2183533, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 2.6316843, y: 3.7024217, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 1.1157522, y: 5.00701, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 1.1157522, y: 5.00701, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 2.4203408, y: 6.522942, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 0.90440947, y: 7.8275304, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 1.4555025, y: 9.750106, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 1.4555025, y: 9.750106, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: -0.46707308, y: 10.301199, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 0.0840199, y: 12.223774, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 0.0840199, y: 12.223774, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 2.0065954, y: 11.672681, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 2.5576885, y: 13.595257, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 4.073621, y: 14.899845, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 4.073621, y: 14.899845, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 2.7690325, y: 16.415777, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 4.2849646, y: 17.720366, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 4.2849646, y: 17.720366, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 5.589553, y: 16.204433, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 7.105484, y: 17.509022, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 8.070322, y: 19.148981, z: 0.6161313}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 7.9070053, y: 18.53285, z: 2.5118396}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 6.162754, y: 19.497688, z: 2.6751566}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 7.1275926, y: 21.137648, z: 3.291288}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 7.29091, y: 21.75378, z: 1.3955796}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 9.035161, y: 20.78894, z: 1.2322626}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 10, y: 22.428902, z: 1.8483939}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 10, y: 24.020458, z: 3.0595694}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 10, y: 22.809284, z: 4.6511264}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 8, y: 22.809284, z: 4.6511264}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 8, y: 24.40084, z: 5.862302}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 8, y: 25.612017, z: 4.270745}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 10, y: 25.612017, z: 4.270745}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 10, y: 27.203573, z: 5.48192}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 11.452297, y: 28.51196, z: 5.9049597}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 11.266594, y: 28.088919, z: 7.850866}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 9.904116, y: 29.541216, z: 8.03657}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 11.356412, y: 30.849602, z: 8.459609}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 11.542116, y: 31.27264, z: 6.5137024}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 12.904594, y: 29.820343, z: 6.327999}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 14.356891, y: 31.128729, z: 6.751038}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 16.25865, y: 31.621412, z: 6.376106}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 16.544699, y: 31.996344, z: 8.319711}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 15.995621, y: 33.8981, z: 8.033662}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 17.89738, y: 34.39079, z: 7.658729}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 17.61133, y: 34.015854, z: 5.7151237}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 18.160408, y: 32.114098, z: 6.0011735}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 20.062168, y: 32.60678, z: 5.6262407}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 21.963928, y: 33.099464, z: 5.2513084}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 22.249977, y: 33.474396, z: 7.194914}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 21.7009, y: 35.376156, z: 6.9088645}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 23.602657, y: 35.86884, z: 6.533932}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 23.316608, y: 35.493908, z: 4.590327}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 23.865688, y: 33.592148, z: 4.876376}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 25.767447, y: 34.08483, z: 4.501444}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 27.669207, y: 34.577515, z: 4.126511}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 27.955256, y: 34.952446, z: 6.0701165}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 27.406178, y: 36.854206, z: 5.784067}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 29.307938, y: 37.34689, z: 5.4091344}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 29.021887, y: 36.97196, z: 3.4655292}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 29.570965, y: 35.070198, z: 3.7515788}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 31.472725, y: 35.56288, z: 3.3766468}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 33.374485, y: 36.055565, z: 3.0017145}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 33.660534, y: 36.430496, z: 4.9453197}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 33.111458, y: 38.332256, z: 4.65927}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 35.013214, y: 38.82494, z: 4.2843375}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 34.727165, y: 38.45001, z: 2.340732}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 35.276245, y: 36.54825, z: 2.626782}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 37.178, y: 37.04093, z: 2.2518497}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 39.079758, y: 37.533615, z: 1.8769172}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 39.36581, y: 37.908546, z: 3.8205225}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 38.81673, y: 39.810307, z: 3.534473}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 40.71849, y: 40.30299, z: 3.1595404}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 40.43244, y: 39.92806, z: 1.2159352}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 40.981518, y: 38.0263, z: 1.5019848}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 42.883278, y: 38.518982, z: 1.1270527}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 44.785038, y: 39.01167, z: 0.7521204}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 45.071087, y: 39.3866, z: 2.6957257}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 44.522007, y: 41.28836, z: 2.4096763}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 46.423767, y: 41.781044, z: 2.0347443}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 46.13772, y: 41.406113, z: 0.09113872}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 46.686794, y: 39.504353, z: 0.3771881}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 48.588554, y: 39.997036, z: 0.0022560244}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 46.615448, y: 39.67016, z: 0.0015040166}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 46.61456, y: 39.67091, z: 2.0015037}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 46.941437, y: 37.697803, z: 2.0023906}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 44.96833, y: 37.370926, z: 2.0016387}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 44.96922, y: 37.370174, z: 0.0016388486}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 44.64234, y: 39.34328, z: 0.00075200875}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 42.66923, y: 39.016403, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 40.69618, y: 38.689182, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 40.69618, y: 38.689182, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 41.023403, y: 36.716133, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 39.050354, y: 36.38891, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 39.050354, y: 36.38891, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 38.72313, y: 38.361958, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 36.750084, y: 38.034737, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 34.77703, y: 37.707516, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 34.77703, y: 37.707516, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 35.104256, y: 35.734467, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 33.131207, y: 35.40724, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 33.131207, y: 35.40724, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 32.80398, y: 37.380295, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 30.830935, y: 37.05307, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 28.857885, y: 36.72585, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 28.857885, y: 36.72585, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 29.185108, y: 34.7528, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 27.212057, y: 34.425575, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 27.212057, y: 34.425575, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 26.884834, y: 36.39863, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 24.911785, y: 36.071404, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 22.938736, y: 35.74418, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 22.938736, y: 35.74418, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 23.265959, y: 33.77113, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 21.29291, y: 33.44391, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 21.29291, y: 33.44391, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 20.965685, y: 35.416958, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 18.992636, y: 35.089733, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 17.019587, y: 34.762512, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 17.019587, y: 34.762512, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 17.34681, y: 32.789463, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 15.373758, y: 32.46224, z: 2}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 15.373758, y: 32.46224, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 15.046536, y: 34.43529, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 13.073486, y: 34.108067, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 10.01, y: 33.6, z: 0}
+    rotIn: 0
+    rotOut: 0
+  pathUp: {x: 1, y: -0.00029762587, z: 0}
+  pathPosition:
+    PointIndex: 0
+    InterPointProgress: 0

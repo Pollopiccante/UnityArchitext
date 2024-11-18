@@ -1,0 +1,16 @@
+{
+    "name": "pollopiccante.architext.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b12968b414c5781b98819d635086f685"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

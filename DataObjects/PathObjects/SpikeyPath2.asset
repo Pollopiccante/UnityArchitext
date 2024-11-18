@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17a69ea2cc7c8156f9353f7451802ad4, type: 3}
+  m_Name: SpikeyPath2
+  m_EditorClassIdentifier: 
+  points:
+  - pos: {x: 10, y: 0, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 18.88602, y: 28.105257, z: 5.579719}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 16.125858, y: 31.58701, z: 6.4022856}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 26.373642, y: 13.800566, z: 8.306311}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 25.634655, y: 34.05043, z: 4.5276237}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 35.882435, y: 16.26398, z: 6.4316463}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 35.14345, y: 36.513847, z: 2.6529617}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 45.39124, y: 18.7274, z: 4.5569863}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 44.65225, y: 38.97727, z: 0.77830005}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 37.29728, y: 58.115616, z: -1.3730013}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 34.764046, y: 37.70536, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 26.559196, y: 56.617805, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 24.898796, y: 36.06925, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 16.693945, y: 54.981693, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 15.033547, y: 34.433136, z: 0}
+    rotIn: 0
+    rotOut: 0
+  - pos: {x: 10.01, y: 33.6, z: 0}
+    rotIn: 0
+    rotOut: 0
+  pathUp: {x: 1, y: 0, z: 0}
+  pathPosition:
+    PointIndex: 0
+    InterPointProgress: 0
